@@ -1,0 +1,41 @@
+.container {
+    margin:0 auto; 
+}
+
+.box {
+    text-align: center;
+    
+}
+
+.title {
+    font-family: 'Playfair Display', serif;      
+    text-align: center;  
+}
+
+
+
+
+.button{
+    font-size: 3em !important;
+    /* padding: 1em; */
+    margin: 0.4em;
+    font-family: 'Playfair Display', serif;     
+}
+
+p{
+    font-family: 'Playfair Display', serif;    
+    font-size: 30px;
+}
+
+
+
+h1{
+    font-family: 'Playfair Display',serif;
+}
+
+.partyEvent{
+    text-align: center;
+    font-size: 50px;
+    /* padding: 1px; */
+}
+
