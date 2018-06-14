@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 .container {
     margin:0 auto; 
 }
@@ -13,7 +17,17 @@
 }
 
 
+<<<<<<< HEAD
 
+=======
+.invitation {
+    text-align: center;
+}
+
+/* .columns{
+    border:1px solid black;
+} */
+>>>>>>> master
 
 .button{
     font-size: 3em !important;
@@ -24,6 +38,7 @@
 
 p{
     font-family: 'Playfair Display', serif;    
+<<<<<<< HEAD
     font-size: 30px;
 }
 
@@ -39,3 +54,19 @@ h1{
     /* padding: 1px; */
 }
 
+=======
+    font-size: 40px;
+}
+
+
+/* 
+.is-half{
+    border:1px solid black;
+    
+} */
+
+
+h1{
+    font-family: 'Playfair Display',serif;
+}
+>>>>>>> master
